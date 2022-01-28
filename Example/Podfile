@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'BWUIKit_Example' do
+  pod 'BWUIKit', :path => '../'
+
+  target 'BWUIKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
