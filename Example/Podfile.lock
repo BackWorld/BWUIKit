@@ -2,12 +2,8 @@ PODS:
   - BWListKit (0.0.6)
   - BWUIKit (0.0.1):
     - BWListKit
-    - MBProgressHUD
-    - MJRefresh
     - SnapKit
     - YYText
-  - MBProgressHUD (1.2.0)
-  - MJRefresh (3.7.5)
   - SnapKit (4.2.0)
   - YYText (1.0.7)
 
@@ -17,8 +13,6 @@ DEPENDENCIES:
 SPEC REPOS:
   https://github.com/CocoaPods/Specs.git:
     - BWListKit
-    - MBProgressHUD
-    - MJRefresh
     - SnapKit
     - YYText
 
@@ -28,9 +22,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   BWListKit: 8d1d76051ff68eb84bf2c2f85331b4e628f19b61
-  BWUIKit: 8957a40c638d247e0e8f3bb94010b9d55f3018a7
-  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
-  MJRefresh: fdf5e979eb406a0341468932d1dfc8b7f9fce961
+  BWUIKit: 2c8e95a498af3f2822cc6a789921fdee2ace13dc
   SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
   YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
 
