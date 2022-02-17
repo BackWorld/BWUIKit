@@ -41,7 +41,5 @@ TODO: Add long description of the pod here.
   
   s.dependency 'BWListKit'
   s.dependency 'YYText'
-  s.dependency 'MJRefresh'
-  s.dependency 'MBProgressHUD'
   s.dependency 'SnapKit'
 end
